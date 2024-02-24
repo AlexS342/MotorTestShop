@@ -1,0 +1,20 @@
+{
+    "name": "shilov/shop",
+    "autoload": {
+        "psr-4": {
+            "Shilov\\Shop\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "AlexS",
+            "email": "ashilov84@ya.ru"
+        }
+    ],
+    "require-dev": {
+        "roave/security-advisories": "dev-latest"
+    },
+  "require": {
+    "ext-cassandra": "*"
+  }
+}

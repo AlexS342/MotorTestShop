@@ -1,0 +1,17 @@
+{
+  "shop":{
+    "shopName": "Продукты",
+    "quantityCash": 10,
+    "timeWaitingBuyers": 30
+  },
+  "cash":{
+    "timeProduct": 3,
+    "timePayment": 5
+  },
+  "buyer":{
+    "minQuantityProduct": 1,
+    "maxQuantityProduct": 11
+  }
+}
+
+
